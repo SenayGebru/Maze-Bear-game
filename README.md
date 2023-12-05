@@ -21,3 +21,11 @@ Any system capable of compiling and running C++ code.
 Standard C++ libraries.
 
 Note: This is a console-based game and does not feature graphical content.
+
+
+Contributions:
+Contributions to this project are welcome. Please follow the standard procedure:
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes and commit them.
+4. Submit a pull request with a comprehensive description of changes.
