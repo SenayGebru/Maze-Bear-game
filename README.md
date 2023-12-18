@@ -1,4 +1,4 @@
-# Maze-Bear-game
+# Adventure Quest
 Title: Adventure Quest - A Text-Based Adventure Game
 
 Description:
